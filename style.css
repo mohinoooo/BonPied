@@ -1,0 +1,99 @@
+/*RESET*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CLASSES FLEX BOX */
+
+.align-centre{
+  align-items: center;
+}
+
+/* CLASSES DE LARGEURS */
+
+.w-23{
+    width: 23%;
+}
+
+.w-48{
+    width: 48%;
+}
+.w-100{
+    width: 100%;
+}
+
+/* GENERIQUES */
+.container-1000{
+    max-width: 1000px;
+    margin-left: auto;
+    margin: auto;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+
+
+/* HEADER */
+
+/* HERO */
+
+/* SECTION 1 */
+
+#section1{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+}
+
+/* SECTION 2 */
+
+/* FOOTER */
+
+
+
+.card{
+    background-color: #eee3d3;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.card2{
+    background-color: #323b24;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 30px;
+    width: 30%;
+    padding: 20px;
+}
+
+img{
+    width: 60px;
+}
+
+/* rendre un parent flexible */
+.flex {
+    display: flex;
+    /* rendre les enfants flexible */
+    flex-wrap: wrap;
+}
+
+
+.space-between{
+    justify-content: space-between;
+}
+
+
+.sticky{
+    position: sticky;
+    left: 0;
+}
+
+.gap-12{
+    gap: 12px;
+}
