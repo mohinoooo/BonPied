@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body{
+    padding: 24px;
+}
+
 /* CLASSES FLEX BOX */
 
 .align-centre{
@@ -18,8 +22,16 @@
     width: 23%;
 }
 
+.w-33{
+    width: 33%;
+}
+
 .w-48{
     width: 48%;
+}
+
+.w-65{
+    width: 65%;
 }
 .w-100{
     width: 100%;
@@ -61,16 +73,45 @@
     text-align: center;
     width: 100%;
     padding: 20px;
+    border-radius: 30px;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .card2{
-    background-color: #323b24;
+    background-color: #eee3d3;
     text-align: center;
     margin-top: 40px;
     border-radius: 30px;
-    width: 30%;
+    width: 28%;
     padding: 20px;
 }
+
+.card3{
+    background-color: #0F7514;
+    text-align: center;
+    width: 100%;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.card4{
+    background-color: #232121;
+    text-align: center;
+    width: 100%;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.card5{
+    background-color: bisque;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
 
 img{
     width: 60px;
@@ -83,11 +124,35 @@ img{
     flex-wrap: wrap;
 }
 
+.flex-end{
+    justify-content: flex-end;
+}
+
+
+
+.flex-start{
+    justify-content: flex-start;
+}
+
+.justify-centre{
+    justify-content: center;
+}
+
+.justify-content{
+    justify-content: flex-end;
+}
 
 .space-between{
     justify-content: space-between;
 }
 
+.align-content{
+    align-content: flex-start;
+}
+
+.align-items{
+    align-items: center;
+}
 
 .sticky{
     position: sticky;
@@ -96,4 +161,66 @@ img{
 
 .gap-12{
     gap: 12px;
+}
+
+.relative{
+    position: relative;
+}
+
+
+.absolut{
+    position:absolute;
+    top: 600px;
+    left: 142px;
+    width: 40%;
+}
+
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+
+.cardTemoignage{
+    background-color: #eee3d3;
+    width: 20%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.gap5pc{
+    gap: 32%;
+}
+
+
+.card-2{
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px;
+}
+
+.card-product{
+    width: 28%;
+    img{
+        width: 100%
+    }
+}
+
+.margin-top-30{
+    margin-top: 30px;
+}
+
+.margin-bottom-30{
+    margin-bottom: 30px;
+}
+
+.h2{
+    color: blanchedalmond;
+}
+
+.p{
+    color: whitesmoke;
 }

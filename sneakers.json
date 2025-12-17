@@ -11,40 +11,43 @@
     {
       "nom": "Sneakers Classic",
       "description": "Adoptez le style classique avec nos sneakers éco-sourcés. Conçues avec des matériaux recyclés, elles allient confort, durabilité et élégance.",
-      "image-url": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/sneakers/sneakers-classic.webp"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire1-removebg-preview.png"
     },
     {
       "nom": "Sneakers Urbaines",
       "description": "Affirmez votre style urbain avec nos sneakers tendance. Des designs modernes fabriqués de manière éthique pour une empreinte écologique réduite.",
-      "image-url": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/sneakers/sneakers-urbaines.webp"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire2-removebg-preview.png"
     },
     {
       "nom": "Sneakers Légères",
       "description": "Optez pour le confort ultime avec nos sneakers légères. Fabriquées avec des matériaux respirants, elles sont idéales pour une utilisation quotidienne.",
-      "image-url": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/sneakers/sneakers-legeres.webp"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire3-removebg-preview.png"
     },
     {
       "nom": "Sneakers Hautes Performance",
       "description": "Atteignez de nouveaux sommets avec nos sneakers hautes performances. Conçues pour offrir un soutien optimal tout en respectant l'environnement.",
-      "image-url": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/sneakers/sneakers-hautes-performance.webp"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire4-removebg-preview.png"
     },
     {
       "nom": "Sneakers Vintage Éco-sourcées",
       "description": "Retrouvez le charme du vintage avec nos sneakers éco-sourcées. Des modèles rétro repensés avec des matériaux respectueux de l'environnement.",
-      "image-url": "https://js-dynamic-portfolio-data-makerslab-emlyon-cdweb-8f83155c64a0cc.gitlab.io/images/sneakers/sneakers-vintage-eco-sourcees.webp"
+      "imageUrl": "https://nico-on-web.github.io/sneakers-assignement-js/images/paire5-removebg-preview.png"
     }
   ],
   "services": [
     {
       "nom": "Personnalisation",
+      "image":"asset/Frame1.jpg",
       "description": "Personnalisez vos sneakers pour un style unique. Choisissez vos couleurs, motifs et matériaux préférés pour des chaussures qui reflètent votre personnalité."
     },
     {
       "nom": "Recyclage",
+      "image":"asset/Frame2.jpg",
       "description": "Participez à notre programme de recyclage. Ramenez vos anciennes sneakers BonPied pour qu'elles soient recyclées de manière responsable, contribuant ainsi à la réduction des déchets."
     },
     {
       "nom": "Événements Responsables",
+      "image":"asset/Frame3.jpg",
       "description": "Rejoignez-nous lors de nos événements responsables. Des initiatives locales pour sensibiliser à la durabilité et promouvoir un mode de vie éco-conscient."
     }
   ],
